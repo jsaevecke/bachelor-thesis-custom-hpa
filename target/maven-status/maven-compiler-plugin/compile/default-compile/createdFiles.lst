@@ -1,0 +1,7 @@
+com/julien/saevecke/learner/sul/SulApplication.class
+com/julien/saevecke/learner/sul/config/mealymachines/coffee/Machine.class
+com/julien/saevecke/learner/sul/proxy/DefaultQueryProxy.class
+com/julien/saevecke/learner/sul/config/mealymachines/coffee/Input.class
+com/julien/saevecke/learner/sul/messages/MembershipQuery.class
+com/julien/saevecke/learner/sul/processors/QueryProcessor.class
+com/julien/saevecke/learner/sul/config/rabbitmq/RabbitMQConfig.class
